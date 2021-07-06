@@ -69,7 +69,7 @@
       "isDark": true,
       "logo": {
         "src": "/logo_voron.svg",
-        "dynamic": false
+        "dynamic": true
       }
     },
     {
